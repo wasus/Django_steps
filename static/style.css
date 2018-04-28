@@ -1,0 +1,53 @@
+html, body{
+    height: 100%;
+    max-height: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.top-container{
+    padding-top: 3%;
+}
+
+.general-container{
+    background: url('img/bg_image.jpg');
+    height: 100%;
+}
+
+.general-container form{
+    margin-top: 30px;
+}
+
+.general-container form label{
+    font-weight: 100;
+    color: white;
+}
+
+.btn-orange{
+    background-color: #e8643e;
+    border: none;
+}
+
+.btn-orange:hover{
+    background-color: #dc5129;
+    border: none;
+}
+
+.title{
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    line-height: 50px;
+}
+
+.article-title  {
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-family: 'Montserrat', sans-serif;
+    color: #444444;
+}
+
+.wrapper-boxed {
+	background: #f5f5f5;
+	padding: 30px;
+}
